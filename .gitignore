@@ -1,0 +1,229 @@
+<style>
+.header-title-main {
+	display: none;
+}
+#primary-headline {
+	display: none;
+}
+.template-container {
+	width: 760px;
+	margin: 0 auto;
+}
+.image-header {
+	max-width: 750px;
+	overflow: hidden;
+	position: relative;
+}
+.banner {
+	float: left;
+	width: 100%;
+	max-width: 750px;
+}
+.banner-header-text {
+	position: absolute;
+	width: 100%;
+}
+.deco {
+	width: 100%;
+	max-width: 23px;
+	display: inline-block;
+	float: right;
+}
+h1 {
+	margin: 0;
+	padding: 10 0 0 0;
+	:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 225%;
+	color: #000000;
+}
+h2 {
+	margin: 0;
+	padding: 10 0 0 0;
+	:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 200%;
+	color: #acc137;
+}
+h3 {
+	margin: 0;
+	padding: 10 0 0 0;
+	:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	color: #808080;
+}
+li {
+	font-size: 14px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000000;
+	font-weight: 500;
+	line-height: 22px;
+}
+.line1 {
+	float: right;
+	display: inline-block;
+	margin-right: 0px;
+	padding-top: 1.8%;
+	padding-right: 3%;
+	padding-left: 1.77%;
+	padding-bottom: 2%;
+	background-color: #acc137;
+	box-shadow: 0px 2px 8px #222222;
+	border: none;
+}
+.line2 {
+	clear: right;
+	text-align: right;
+	padding-right: 3%;
+	margin-bottom: 27%;
+	background-color: transparent;
+	border: none;
+}
+p {
+	font-size: 14px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: #000000;
+	font-weight: 500;
+	line-height: 22px;
+}
+
+/* Small Mobile */
+@media only screen and (max-width:320px) {
+.Bodoni {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+h1 {
+	font-size: 160%;
+}
+line2 {
+}
+}
+ @media only screen and (min-width:321px) and (max-width:500px) {
+h1 {
+	font-size: 330%;
+}
+line2 {
+}
+}
+ @media only screen and (min-width:501px) and (max-width:760px) {
+h1 {
+	font-size: 230%;
+	font-weight: bold;
+}
+h3 {
+	margin: 0;
+	padding: 10 0 0 0;
+	:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20 px;
+	color: #808080;
+}
+line2 {
+}
+}
+ @media only screen and (max-width:760px) {
+.template-container {
+	width: 100%;
+}
+.banner {
+	padding: 0;
+}
+.deco {
+	display: none;
+}
+.line1 {
+	padding-left: 2.3%;
+	font-weight: normal;
+}
+.line2 {
+	font-weight: normal;
+}
+h1 {
+	font-size: 330%;
+}
+h3 {
+	margin: 0;
+	padding: 10 0 0 0;
+	:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 20 px;
+	color: #808080;
+}
+.textbody {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.3px;
+	height: 100%;
+	width: 100%;
+}
+</style>
+<style>
+.itm { list-style-type:none; }
+.banner1 {	float: left;
+	width: 100%;
+	max-width: 750px;
+}
+.banner1 {	padding: 0;
+}
+</style>
+<div class="template-container">
+  <div class="image-header"><img src="http://pets13.com/image_files/blog-articles/petcare.jpg" alt="How to Help your Dog Sleep Well" style="width:100%; max-width:760px;
+" class="banner"> </div>
+  </br>
+  <div>
+    <p>We embrace the fact that pets are like family, another member of our clan, and as such, we do everything that we can in order to keep them happy and healthy. With ever rising prices, sometimes it can be hard to feed Fido and care for our kitty on a tight budget.  Even shopping online for coupons and earning rebates helps, but it can be time consuming. Thankfully there's several ways we can save both money and time when it comes to our precious pets. Check out these tips for keeping our animals healthy and saving money at the same time: </p>
+    </br>
+  
+  </div>
+  <div class="image-header"><img src="http://pets13.com/image_files/blog-articles/petcare2.jpg" alt="Dog Beds" style="width:100%; max-width:760px;height:100%; max-height:187px;" class="banner"> </div>
+  <div class="image-header"></div>
+  </br>
+  </br>
+  <div>
+    <h2>Fill it Online</h2>
+    <hr { size = "5 px;" color = "acc137"} ></hr>
+    <p>Perhaps you've seen the commercials advising us to save money by purchasing our animal's medicines online, and they're actually speaking the truth. While we might expect our veterinarian to mark up the prices of their prescription products slightly to help them absorb the costs of storage, dispensing, sales tax, shipping and handling, it might be a lot more than you would think, up to 275% in some cases. 
+
+While the markup for common medications like heartworm prevention, flea and tick remedies are usually around 100% in most cases, that's still pretty steep. Purchasing these prescriptions online can save a bundle.</p>
+    <br />
+    
+  </div>
+  <div class="image-header"><img src="http://pets13.com/image_files/blog-articles/petcare3.jpg" alt="Supplements for pets with hip and joint problems" style="width:100%; max-width:760px;height:100%; max-height:184px;" class="banner"> </div>
+  </br>
+  </br>
+  <div>
+  
+    <h2>Preventative Care</h2>
+   <hr { size = "5 px;" color = "acc137"} ></hr>
+   
+   
+    <p>Yearly trips to the veterinarian will save money in the long run, especially when it comes to preventative care. Humans can help their animals by keeping a good eye (and hand) on them during the rest of the year. One health care measure some pet owners overlook is dental hygiene and our animals can contract the same issues as humans including periodontitis, gingivitis, gum disease and tooth decay. 
+
+Contracted or left untreated, these conditions can require the use of sedation or anesthesia for a complete dental examination and treatment, both of which are very expensive. To avoid these costs, brush your dog's (or cat's) teeth daily. Instead of buying them a new toy or other present, opt for a good brush and some toothpaste instead. </p>
+    <p></p>
+      <div>
+      <br/>
+   
+
+  </div>
+  <div class="image-header"><img src="http://pets13.com/image_files/blog-articles/petcare4.jpg" alt="Supplements for pets with hip and joint problems" style="width:100%; max-width:760px;height:100%; max-height:184px;" class="banner1" /></div>
+  <div>
+  <br/>
+    <h2>Healthier Food Choices</h2>
+    <hr { size = "5 px;" color = "acc137"} ></hr>
+    <p> One place we shouldn't be looking to shave some extra costs is when purchasing pet food. Some retail brands, especially super cheap pet foods can contain a laundry list of dangerous ingredients, including: </p>
+        
+        <ul>
+      <li>
+        Byproducts: Labeled as beef, fish and poultry, these meat leftovers can be  almost anything including diseased tissues, organs and tumors. 
+        <li>
+        Poisons: Propylene Glycol, an ingredient found in antifreeze, and Ethoxyquin, used as an herbicide, are both toxic for animals.
+        <li>
+        BHT/BHA Butylated-hydroxyanisole (BHA) or butylated hydroxytoluene (BHT), both used as a preservative, are linked to kidney damage and cancer. 
+        <li>
+        Corn or corn syrup: Too much of this grain and it's sweetener can cause a variety of issues including diabetes and allergic reactions in some animals. 
+        </li>
+    </ul>
+        
+       <p> Another danger from grains comes from mycotoxins, molds that can grow unnoticed, that can remain undetected and wind up in our pet's food. These toxins have been linked to diseases and deaths in some animals. </p>
+       <br/> 
+       <p> As the old saying goes, sometimes you have to spend money to make money. So when it comes to caring and feeding our four-legged friends, spending a little bit more upfront can save big bucks on vet bills later on. </p>
+  </div>
+ 
